@@ -33,8 +33,8 @@
 
 <a href="https://www.javascript.com/" rel="JavaScript">![Foo](https://img.icons8.com/color/48/000000/javascript.png)</a>
 <a href="https://www.python.org/" rel="Python">![Foo](https://img.icons8.com/color/48/000000/python.png)</a>
-<!-- <a href="https://en.wikipedia.org/wiki/HTML5/" rel="HTML5">![Foo](https://img.icons8.com/color/48/000000/html-5.png)</a> -->
-<!-- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" rel="CSS">![Foo](https://img.icons8.com/color/48/000000/css3.png)</a> -->
+<a href="https://en.wikipedia.org/wiki/HTML5/" rel="HTML5">![Foo](https://img.icons8.com/color/48/000000/html-5.png)</a>
+<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" rel="CSS">![Foo](https://img.icons8.com/color/48/000000/css3.png)</a>
 <!-- <a href="https://www.ruby-lang.org/en/" rel="Ruby">![Foo](https://img.icons8.com/color/48/000000/ruby-programming-language.png)</a> -->
 <br /><br />
 
