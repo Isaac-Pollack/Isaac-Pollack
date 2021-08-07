@@ -4,7 +4,7 @@
 
 <p align="center">
   / <a href="#about">About</a> •
-  <a href="http://isaac-pollack.github.io/">Resume</a> •
+  <a href="http://isaac-pollack.github.io/"><s>Portfolio</s></a> •
   <a href="#tools">Tools</a> •
   <a href="#languages">Languages</a> \
   
@@ -25,14 +25,16 @@
 ##
 ### Tools:
 
-<a href="https://github.com/" rel="GitHub">![Foo](https://img.icons8.com/fluent/48/000000/github.png)</a>
 <a href="https://code.visualstudio.com/" rel="VSCode">![Foo](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)</a>
+<a href="https://www.jetbrains.com/pycharm/" rel="PyCharm">![Foo](https://img.icons8.com/color/48/000000/pycharm.png)</a>
+<a href="https://github.com/" rel="GitHub">![Foo](https://img.icons8.com/fluent/48/000000/github.png)</a>
 <a href="https://www.google.com/chrome/" rel="Chrome">![Foo](https://img.icons8.com/fluent/48/000000/chrome.png)</a>
 <br /><br />
 ### Languages:
 
-<a href="https://www.javascript.com/" rel="JavaScript">![Foo](https://img.icons8.com/color/48/000000/javascript.png)</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="C">![Foo](https://img.icons8.com/color/48/000000/c-programming.png)</a>
 <a href="https://www.python.org/" rel="Python">![Foo](https://img.icons8.com/color/48/000000/python.png)</a>
+<a href="https://www.javascript.com/" rel="JavaScript">![Foo](https://img.icons8.com/color/48/000000/javascript.png)</a>
 <a href="https://en.wikipedia.org/wiki/HTML5/" rel="HTML5">![Foo](https://img.icons8.com/color/48/000000/html-5.png)</a>
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" rel="CSS">![Foo](https://img.icons8.com/color/48/000000/css3.png)</a>
 <!-- <a href="https://www.ruby-lang.org/en/" rel="Ruby">![Foo](https://img.icons8.com/color/48/000000/ruby-programming-language.png)</a> -->
