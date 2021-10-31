@@ -32,7 +32,7 @@
 <br /><br />
 ### Languages:
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="C">![Foo](https://img.icons8.com/color/48/000000/c-programming.png)</a>
+<!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="C">![Foo](https://img.icons8.com/color/48/000000/c-programming.png)</a> -->
 <a href="https://www.python.org/" rel="Python">![Foo](https://img.icons8.com/color/48/000000/python.png)</a>
 <a href="https://www.javascript.com/" rel="JavaScript">![Foo](https://img.icons8.com/color/48/000000/javascript.png)</a>
 <a href="https://en.wikipedia.org/wiki/HTML5/" rel="HTML5">![Foo](https://img.icons8.com/color/48/000000/html-5.png)</a>
@@ -50,4 +50,4 @@
   
   <br>
   <a href="https://www.buymeacoffee.com/IsaacP" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <br>
-  <a href="#"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Github Logo Gif" width="175" height="175" /></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Github Logo Gif" width="175" height="175" style="pointer-events: none"/></a>
