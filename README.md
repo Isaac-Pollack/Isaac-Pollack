@@ -5,8 +5,7 @@
 <p align="center">
   / <a href="#about">About</a> •
   <a href="http://isaac-pollack.github.io/"><s>Portfolio</s></a> •
-  <a href="#tools">Tools</a> •
-  <a href="#languages">Languages</a> \
+  <a href="#tools">Tools</a> \
   
 </p>
 <p align="center">
@@ -17,28 +16,27 @@
 
 ### About
 
-- 🔭 I’m currently working on my portfolio website!
-- 🌱 I’m currently learning **```Django```**
-
-<br /><br />
+- :zap: I’m currently working on my portfolio website!
+- :new_moon: I’m currently studying **```Laravel / React / Vue```**
+- :milky_way: In my own time I am further my skills in **```Python```**
 
 ##
 ### Tools:
 
-<a href="https://code.visualstudio.com/" rel="VSCode">![Foo](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)</a>
-<a href="https://www.jetbrains.com/pycharm/" rel="PyCharm">![Foo](https://img.icons8.com/color/48/000000/pycharm.png)</a>
-<a href="https://github.com/" rel="GitHub">![Foo](https://img.icons8.com/fluent/48/000000/github.png)</a>
-<a href="https://www.google.com/chrome/" rel="Chrome">![Foo](https://img.icons8.com/fluent/48/000000/chrome.png)</a>
-<br /><br />
-### Languages:
+<img align="left" title="Git" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
+<img align="left" title="Github" alt="GitHub" width="48px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px;" />
+<img title="VSCode" alt="VSCode" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
 
-<!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="C">![Foo](https://img.icons8.com/color/48/000000/c-programming.png)</a> -->
-<a href="https://www.python.org/" rel="Python">![Foo](https://img.icons8.com/color/48/000000/python.png)</a>
-<a href="https://www.javascript.com/" rel="JavaScript">![Foo](https://img.icons8.com/color/48/000000/javascript.png)</a>
-<a href="https://en.wikipedia.org/wiki/HTML5/" rel="HTML5">![Foo](https://img.icons8.com/color/48/000000/html-5.png)</a>
-<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" rel="CSS">![Foo](https://img.icons8.com/color/48/000000/css3.png)</a>
-<!-- <a href="https://www.ruby-lang.org/en/" rel="Ruby">![Foo](https://img.icons8.com/color/48/000000/ruby-programming-language.png)</a> -->
-<br /><br />
+<img align="left" title="Python" align="left" alt="Python" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />
+<img align="left" title="Javascript" alt="JavaScript" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
+<img align="left" title="PHP" alt="PHP" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding:10px;" />
+<img title="MySQL" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<img align="left" title="Selenium" alt="Selenium" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="padding:10px;" />
+<img align="left" title="Node.js" alt="Node" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="padding:10px;" />
+<!-- <img align="left" title="React.js" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" /> -->
+<!-- <img align="left" title="Vue.js" alt="Vue" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding:10px;" /> -->
+<img title="Laravel" alt="Laravel" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding:10px;" />
 
 ---
 
