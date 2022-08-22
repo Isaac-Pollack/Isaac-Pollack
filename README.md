@@ -18,7 +18,7 @@
 
 - :zap: I’m currently working on my portfolio website!
 - :new_moon: I’m currently studying **```Laravel & NodeJS + Angular```**
-- :milky_way: In my own time I am furthering my skills in **```Python```**
+- :milky_way: In my own time I am furthering my skills in **```Typescript + React```**
 
 ##
 ### Tools:
