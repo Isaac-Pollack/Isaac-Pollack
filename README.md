@@ -16,9 +16,9 @@
 
 ### About
 
-- :zap: I’m currently working on my portfolio website!
-- :new_moon: I’m currently studying **```Laravel & NodeJS + Angular```**
-- :milky_way: In my own time I am furthering my skills in **```Typescript + React```**
+- :zap: I’m currently working on a project utilising a **```C# Backend, SQL & Vue Frontend!```**
+- :new_moon: I’m currently studying **```The C# Entity Framework```**
+- :milky_way: In my own time I am furthering my skills in **```Design Patterns```**
 
 ##
 ### Tools:
@@ -44,6 +44,7 @@
   Connect with me:
   <br>
   <a href="https://www.linkedin.com/in/Isaac-Pollack"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>  
+  <a href="https://www.isaacpollack.dev/"><img src="https://img.icons8.com/?size=48&id=23883&format=png" alt="Portfolio Site"></a>
   <a href="mailto:pollackisaac@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>  
   
   <br>
