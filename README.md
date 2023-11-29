@@ -16,8 +16,8 @@
 
 ### About
 
-- :zap: I’m currently working on a project utilising a **```C# Backend, SQL & Vue Frontend!```**
-- :new_moon: I’m currently studying **```The C# Entity Framework```**
+- :zap: I’m currently working on a project utilising a **```C# & SQL!```**
+- :new_moon: I’m currently studying **```ASP.NET```**
 - :milky_way: In my own time I am furthering my skills in **```Design Patterns```**
 
 ##
