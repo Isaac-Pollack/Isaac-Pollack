@@ -4,7 +4,7 @@
 
 <p align="center">
   / <a href="#about">About</a> •
-  <a href="https://www.isaacpollack.dev/">Portfolio</a> •
+  <a href="https://isaac-pollack.github.io/">Portfolio</a> •
   <a href="#tools">Tools</a> \
   
 </p>
