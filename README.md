@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  / <a href="#about">About</a> •
+  /
   <a href="https://isaac-pollack.github.io/">Portfolio</a> •
   <a href="#tools">Tools</a> \
   
@@ -11,14 +11,6 @@
 <p align="center">
   <a href="https://github.com/Isaac-Pollack?tab=repositories">Repositories</a>
 </p>
-
-##
-
-### About
-
-- :zap: I’m currently working on a project utilising a **```C# & SQL!```**
-- :new_moon: I’m currently studying **```ASP.NET```**
-- :milky_way: In my own time I am furthering my skills in **```Design Patterns```**
 
 ##
 ### Tools:
